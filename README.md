@@ -15,6 +15,6 @@ A collection of concise write-ups on small things I learn day to day.
 - [Motivation behind competition in games](GameTheory/competition_motivator_over_time.md)
 
 ###Git
-- [Autocompletion in Bash on OS X](Autocompletion in Bash on OS X)
+- [Autocompletion in Bash on OS X](Git/git-autocomplete-osx.md)
 
 
